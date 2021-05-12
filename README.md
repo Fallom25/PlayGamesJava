@@ -1,3 +1,3 @@
 # PlayGamesJava
 
-## This is a collection of basic games that have helped me understand concepts in Java.
+## This is a collection of basic games that have helped me better understand concepts in Java.
